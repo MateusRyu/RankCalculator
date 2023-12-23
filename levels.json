@@ -1,0 +1,30 @@
+[
+  {
+    "min": 0,
+    "name": "Ferro"
+  },
+  {
+    "min": 11,
+    "name": "Bronze"
+  },
+  {
+    "min": 21,
+    "name": "Prata"
+  },
+  {
+    "min": 51,
+    "name": "Ouro"
+  },
+  {
+    "min": 81,
+    "name": "Diamante"
+  },
+  {
+    "min": 91,
+    "name": "Lendário"
+  },
+  {
+    "min": 101,
+    "name": "Imortal"
+  }
+]
